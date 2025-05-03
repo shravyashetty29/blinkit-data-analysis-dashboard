@@ -1,7 +1,5 @@
 # Blinkit-Data-Analysis-Dashboard
 
-#Blinkit Data Analysis Dashboard
-
 
 **Project Overview**
 This project showcases a detailed Power BI dashboard built to analyze Blinkit’s operational performance. It provides visual insights into sales, product distribution, outlet segmentation, and customer satisfaction metrics. The dashboard empowers data-driven decisions through clear and interactive visuals.
