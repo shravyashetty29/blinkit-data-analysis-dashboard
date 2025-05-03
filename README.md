@@ -22,8 +22,7 @@ https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/Bli
 https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/Blinkit.pbix
 
 **dashboard image**
-https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/Screenshot%202025-05-03%20122047%20(2).png
-
+file:///C:/Users/Shreya/Pictures/Screenshots/Screenshot%202025-05-03%20122047%20(2).png
 
 **Features**
 
