@@ -1,7 +1,7 @@
 # Blinkit-Data-Analysis-Dashboard
 
 
-##Project Overview
+**Project Overview**
 This project showcases a detailed Power BI dashboard built to analyze Blinkit’s operational performance. It provides visual insights into sales, product distribution, outlet segmentation, and customer satisfaction metrics. The dashboard empowers data-driven decisions through clear and interactive visuals.
 
 **Key Performance Indicators (KPIs)**
@@ -15,10 +15,10 @@ The dashboard highlights the following major KPIs:
 
 4.Average Rating: 3.9 out of 5 based on customer feedback
 
-##dataset url
+**dataset url**
 https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx
 
-**dashboard**
+**dashboard link**
 
 
 **Features**
