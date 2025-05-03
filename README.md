@@ -19,7 +19,7 @@ The dashboard highlights the following major KPIs:
 https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx
 
 **dashboard link**
-
+https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/Blinkit.pbix
 
 **Features**
 
