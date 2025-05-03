@@ -21,6 +21,9 @@ https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/Bli
 **dashboard link**
 https://github.com/shravyashetty29/blinkit-data-analysis-dashboard/blob/main/Blinkit.pbix
 
+**dashboard image**
+
+
 **Features**
 
 1.Interactive Filters: Enables data slicing by outlet location type, outlet size (small, medium, high), and item type.
